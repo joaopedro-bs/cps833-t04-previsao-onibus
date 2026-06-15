@@ -54,9 +54,15 @@ SPEC.md
 # =============================================================================
 # Dados brutos e processados (nunca versionar no git)
 # =============================================================================
-data/raw/*
-data/processed/*
+data/raw/**
 !data/raw/.gitkeep
+!data/raw/treino/
+!data/raw/treino/.gitkeep
+!data/raw/teste/
+!data/raw/teste/.gitkeep
+!data/raw/teste-final/
+!data/raw/teste-final/.gitkeep
+data/processed/**
 !data/processed/.gitkeep
 
 # =============================================================================
@@ -68,8 +74,8 @@ data/processed/*
 # =============================================================================
 # Artefatos gerados
 # =============================================================================
-figures/
-results/
+figures/*
+!figures/.gitkeep
 
 # =============================================================================
 # LaTeX (relatório)
@@ -83,6 +89,11 @@ report/*.fls
 report/*.fdb_latexmk
 report/*.synctex.gz
 report/*.pdf
+
+# =============================================================================
+# Arquivos de resposta grandes (> 100 MB — limite GitHub)
+# =============================================================================
+results/resposta-*.json
 
 # =============================================================================
 # Misc

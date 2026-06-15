@@ -1,0 +1,142 @@
+[
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-16_08.json",
+    "rmse": 7271.012678374511,
+    "ids testados": 165541,
+    "task": "T2"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-16_12.json",
+    "rmse": 2580.86613331067,
+    "ids testados": 163210,
+    "task": "T1"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-16_16.json",
+    "rmse": 7917.543875281922,
+    "ids testados": 162697,
+    "task": "T2"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-16_20.json",
+    "rmse": 2514.4174668061924,
+    "ids testados": 162676,
+    "task": "T1"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-17_07.json",
+    "rmse": 8184.404768111987,
+    "ids testados": 154806,
+    "task": "T2"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-17_11.json",
+    "rmse": 2444.0631239609797,
+    "ids testados": 168655,
+    "task": "T1"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-17_15.json",
+    "rmse": 8408.787326084184,
+    "ids testados": 162697,
+    "task": "T2"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-17_19.json",
+    "rmse": 2477.9798094468083,
+    "ids testados": 161894,
+    "task": "T1"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-18_08.json",
+    "rmse": 3158.4187566269125,
+    "ids testados": 126597,
+    "task": "T1"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-18_12.json",
+    "rmse": 8085.366210412355,
+    "ids testados": 133500,
+    "task": "T2"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-18_16.json",
+    "rmse": 2507.676860490944,
+    "ids testados": 122920,
+    "task": "T1"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-18_20.json",
+    "rmse": 8087.580625782139,
+    "ids testados": 117901,
+    "task": "T2"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-19_07.json",
+    "rmse": 2658.6441417027963,
+    "ids testados": 86040,
+    "task": "T1"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-19_11.json",
+    "rmse": 8671.673817118113,
+    "ids testados": 95734,
+    "task": "T2"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-19_15.json",
+    "rmse": 2552.291676327713,
+    "ids testados": 89757,
+    "task": "T1"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-19_19.json",
+    "rmse": 8259.417003374421,
+    "ids testados": 89258,
+    "task": "T2"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-20_09.json",
+    "rmse": 7687.815140096265,
+    "ids testados": 164537,
+    "task": "T2"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-20_13.json",
+    "rmse": 2598.3168257103657,
+    "ids testados": 162255,
+    "task": "T1"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-20_17.json",
+    "rmse": 7856.762399052104,
+    "ids testados": 158782,
+    "task": "T2"
+  },
+  {
+    "msg": "Ok",
+    "arquivo teste": "teste-2024-05-20_21.json",
+    "rmse": 2734.028910179535,
+    "ids testados": 144778,
+    "task": "T1"
+  }
+]
